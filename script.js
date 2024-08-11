@@ -2,6 +2,7 @@ let bool=true;
 let x=document.getElementById("elemento");
 let y=document.getElementById("sfondo");
 let z=document.getElementById("sco");
+
 x.addEventListener("click",function() {
     if(bool==true) {
     x.style.backgroundImage="url(img/bi.png)";
