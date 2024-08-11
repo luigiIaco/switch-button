@@ -1,5 +1,6 @@
 let bool=true;
 let x=document.getElementById("elemento");
+
 let y=document.getElementById("sfondo");
 let z=document.getElementById("sco");
 
